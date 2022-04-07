@@ -1,4 +1,4 @@
-namespace dotless.Core.Input
+﻿namespace dotless.Core.Input
 {
     using System.IO;
 

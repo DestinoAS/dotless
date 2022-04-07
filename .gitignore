@@ -330,3 +330,4 @@ __pycache__/
 
 # OpenCover UI analysis results
 OpenCover/
+/src/dotless.Core/publish.bat
